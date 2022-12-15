@@ -5,6 +5,6 @@ The software is contributed via a python file called Task2_2.py. But you can als
 
 Go to Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndreTislaric/Solution-Task2-Digitale-Bildverarbeitung.git/Task2_2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndreTislaric/Solution-Task2-Digitale-Bildverarbeitung.git/HEAD)
 
 My documentation can be found under each section of code. The summary of the tutorials can be found in file DocumentationTask2.pdf
